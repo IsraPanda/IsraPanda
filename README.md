@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### こんにちは、IsraPandaと申します。
+まだGitHubは触れたばかりでわからないことも多いですが、これからよろしくお願いいたします。
 <!--
 **IsraPanda/IsraPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
